@@ -22,7 +22,7 @@ Web: https://careers.shopee.sg/codeleague/
     - Ranking : Skip this time
     - Duration: 2020/06/27 14:00 - 2020/06/27 17:00
 
-- Shopee Code League Competition #4: Title Translation
+- [Shopee Code League Competition #4: Title Translation] (https://careers.shopee.sg/codeleague/title_translation_challenge)
     - Category: Data Science
     - Ranking : 8 / 110 (7%) 
     - Score : 0.42 (Full Marks: 1.00000)
