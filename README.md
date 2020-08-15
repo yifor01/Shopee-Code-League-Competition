@@ -24,7 +24,7 @@ Web: https://careers.shopee.sg/codeleague/
 
 - [Shopee Code League Competition #4: Title Translation](https://careers.shopee.sg/codeleague/title_translation_challenge)
     - Category: Data Science
-    - Ranking : 8 / 110 (7%) 
+    - Ranking : 8 / 138 (6%) 
     - Score : 0.42 (Full Marks: 1.00000)
     - Duration: 2020/07/04 14:00 - 2020/07/04 17:00
 
